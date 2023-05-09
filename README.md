@@ -3,5 +3,3 @@
 Press the up/down arrow keys to control the black marbles to avoid other marbles (enemy), press the left/right arrow keys to rotate the camera, eating power ups will give you different powers
 ### Prototype 4 scene
 ![](https://github.com/nguyen-duc-viet/Prototype-4/blob/master/GamePlayImages/1.png)
-### Challenge 4 scene
-![](https://github.com/nguyen-duc-viet/Prototype-4/blob/master/GamePlayImages/2.png)
